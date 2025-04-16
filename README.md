@@ -1,2 +1,2 @@
-# PCO
-# the Protein Crystallization Oracle
+# the Protein Crystallization Oracle (PCO)
+welcome to my theesis project :construction_worker:
