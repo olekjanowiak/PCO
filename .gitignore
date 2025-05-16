@@ -1,0 +1,11 @@
+data/raw/
+data/external/
+results/
+*.clstr
+*.fasta
+*.csv
+*.h5
+*.log
+*.tmp
+__pycache__/
+.ipynb_checkpoints/
