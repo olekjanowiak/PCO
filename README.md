@@ -10,4 +10,4 @@ conda activate pco
 conda install ...
 ```
 
-To replicate the entire data processing pipeline, Snakemake and per-step software dependencies are required (like CD-HIT and others).
+To reproduce the entire data processing pipeline, Snakemake and per-step software dependencies are required (managed by conda).
